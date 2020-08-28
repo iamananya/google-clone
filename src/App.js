@@ -1,4 +1,5 @@
 import React from "react";
+import SearchPage from "./pages/SearchPage";
 import Home from "./pages/Home";
 import "./App.css";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
@@ -8,8 +9,7 @@ function App() {
 			<Router>
 				<Switch>
 					<Route path='/search'>
-						{/* <SearchPage /> */}
-						<h1>This is a search Page</h1>
+						<SearchPage />
 					</Route>
 					<Route path='/'>
 						<Home />
