@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The website is deployed in 
+### Hosting URL: https://clone-9d945.web.app
 
 ## Available Scripts
 
